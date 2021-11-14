@@ -27,5 +27,7 @@
 ![wms interface LL00X](https://user-images.githubusercontent.com/41188202/141673089-78ba99bb-ccc5-4ce9-9b44-8f9965de67fb.png)
 
 * Request Access Token Example
+![image](https://user-images.githubusercontent.com/41188202/141673281-21ccd812-c8c5-496a-bd17-797e41144dbb.png)
+
 * Response Access Token Example
 ![image](https://user-images.githubusercontent.com/41188202/141671181-260ff47e-e623-4f7e-b00d-e53916ead6d9.png)
