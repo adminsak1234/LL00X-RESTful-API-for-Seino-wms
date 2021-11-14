@@ -15,6 +15,7 @@
 * username = PTGLL00X
 * password = PTGX00LL
 * grant_type = password
+* Access Token Expire in 60 Minutes
 # API documentation
 ![image](https://user-images.githubusercontent.com/41188202/141670800-4878b0e4-8a8a-4a9d-b4ca-faa3525db359.png)
 ![image](https://user-images.githubusercontent.com/41188202/141671181-260ff47e-e623-4f7e-b00d-e53916ead6d9.png)
