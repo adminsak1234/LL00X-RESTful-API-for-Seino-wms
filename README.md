@@ -1,2 +1,2 @@
-# LL00X-RESTful-API-for-Seino-wms
+# LL00X RESTful API For Seino wms
 Releases
