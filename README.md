@@ -4,9 +4,10 @@
 # Table of contents
 * Base URL
 * Access Token
-* Endpoint types
-
-
+* Secure endpoints
+* Non-secure endpoints
+* API documentation
+* Error codes
 
 
 ![image](https://user-images.githubusercontent.com/41188202/141670800-4878b0e4-8a8a-4a9d-b4ca-faa3525db359.png)
