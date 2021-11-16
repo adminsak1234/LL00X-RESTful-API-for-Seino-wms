@@ -12,10 +12,11 @@
 * The base URL is: http://ptg.somee.com
 # Access Token
 #### Description:
-* username = PTGLL00X
-* password = PTGX00LL
+* username = {your username} (for exam: PTGLL00X)
+* password = {your password} (for exam: PTGX00LL)
 * grant_type = password
 * Access Token Expire in 60 Minutes
+* *step 1
 # Secure endpoints
 * LL001
 * LL003
