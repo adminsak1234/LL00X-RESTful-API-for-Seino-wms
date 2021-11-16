@@ -36,7 +36,13 @@
 ![image](https://user-images.githubusercontent.com/41188202/141673281-21ccd812-c8c5-496a-bd17-797e41144dbb.png)
 
 * Response Access Token Example
-![image](https://user-images.githubusercontent.com/41188202/141671181-260ff47e-e623-4f7e-b00d-e53916ead6d9.png)
+```javascript
+  {
+    "access_token": "or8grkUIuiFYaUsqFgD3ZXPAS_tyn5brTv3FgSI8El_zhTDrC6Joya_Papt6j_W92txK-s2gJmv9bDSlTSpCI9rK1aRvJ_IZVF3c-lX4wi2PaqypIpl32bK9VOCUAZSltELB3d4PY53vQgy8XlMdpwhpHP4s_CYevnKpJUwC5FjCDWzoN7DQ7W14hkIyeUEb6YjecWQlgp1y2FmUkk6TlqiPl4J8IPTadrWXW6uBI-dheX_T4HamEmYK85mbB9pN42fOFCc--uG-MJ22RTCeTRxwvJFxDpEysw9ETIaEAvc",
+    "status": "ok",
+    "message": ""
+  }
+```
 
 # Error codes
 Refer to the following descriptions:
