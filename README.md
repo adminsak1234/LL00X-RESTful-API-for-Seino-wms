@@ -7,7 +7,7 @@
 * [Secure endpoints](#secure-endpoints)
 * [Non-secure endpoints](#non-secure-endpoints)
 * [API documentation](#API-documentation)
-* Error codes
+* [Error codes](#error-codes)
 # Base URL
 * The base URL is: http://ptg.somee.com
 # Access Token
@@ -31,3 +31,5 @@
 
 * Response Access Token Example
 ![image](https://user-images.githubusercontent.com/41188202/141671181-260ff47e-e623-4f7e-b00d-e53916ead6d9.png)
+
+# Error codes
