@@ -4,7 +4,7 @@
 # Table of contents
 * [Base URL](#base-url)
 * [Access Token](#access-token)
-* Secure endpoints
+* [Secure endpoints](#secure-endpoints)
 * Non-secure endpoints
 * API documentation
 * Error codes
