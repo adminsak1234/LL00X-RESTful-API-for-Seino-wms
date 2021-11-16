@@ -2,7 +2,7 @@
 # Releases
 * 2021-11-14 First update
 # Table of contents (link)
-* Base URL(#base-url)
+* Base URL(# Base URL)
 * Access Token
 * Secure endpoints
 * Non-secure endpoints
