@@ -11,7 +11,7 @@
 # Base URL
 * The base URL is: http://ptg.somee.com
 # Access Token
-### POST request for get [Access Token]
+#### Description:
 * username = PTGLL00X
 * password = PTGX00LL
 * grant_type = password
