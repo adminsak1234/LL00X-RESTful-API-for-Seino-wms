@@ -5,7 +5,7 @@
 * [Base URL](#base-url)
 * [Access Token](#access-token)
 * [Secure endpoints](#secure-endpoints)
-* Non-secure endpoints
+* [Non-secure endpoints](#non-secure-endpoints)
 * API documentation
 * Error codes
 # Base URL
