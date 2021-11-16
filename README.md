@@ -16,7 +16,7 @@
 * password = {your password} (for exam: PTGX00LL)
 * grant_type = password
 * Access Token Expire in 60 Minutes
-* *step 1
+**step 1
 # Secure endpoints
 * LL001
 * LL003
