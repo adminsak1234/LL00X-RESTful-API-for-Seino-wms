@@ -20,11 +20,8 @@
 * POST/{Base URL}/token
 ![image](https://user-images.githubusercontent.com/41188202/141952070-1d9c5ca1-90e5-42c8-98ac-8fb94e89ba4d.png)
 * Response
-{
-    "access_token": "or8grkUIuiFYaUsqFgD3ZXPAS_tyn5brTv3FgSI8El_zhTDrC6Joya_Papt6j_W92txK-s2gJmv9bDSlTSpCI9rK1aRvJ_IZVF3c-lX4wi2PaqypIpl32bK9VOCUAZSltELB3d4PY53vQgy8XlMdpwhpHP4s_CYevnKpJUwC5FjCDWzoN7DQ7W14hkIyeUEb6YjecWQlgp1y2FmUkk6TlqiPl4J8IPTadrWXW6uBI-dheX_T4HamEmYK85mbB9pN42fOFCc--uG-MJ22RTCeTRxwvJFxDpEysw9ETIaEAvc",
-    "token_type": "bearer",
-    "expires_in": 3599
-}
+![image](https://user-images.githubusercontent.com/41188202/141971093-7da494d2-e16a-422f-8790-4b2d7ca9b58b.png)
+
 # Secure endpoints
 * LL001
 * LL003
