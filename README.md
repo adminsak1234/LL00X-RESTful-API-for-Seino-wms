@@ -3,7 +3,7 @@
 * 2021-11-14 First update
 # Table of contents
 * [Base URL](#base-url)
-* Access Token
+* [Access Token](#access-token)
 * Secure endpoints
 * Non-secure endpoints
 * API documentation
