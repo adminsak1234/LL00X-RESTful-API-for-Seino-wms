@@ -1,8 +1,8 @@
 # LL00X RESTful API For Seino wms
 # Releases
 * 2021-11-14 First update
-# Table of contents (link)
-* Base URL(#base-url)
+# Table of contents
+* [Base URL](#base-url)
 * Access Token
 * Secure endpoints
 * Non-secure endpoints
