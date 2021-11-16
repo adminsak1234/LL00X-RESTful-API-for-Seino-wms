@@ -6,7 +6,7 @@
 * [Access Token](#access-token)
 * [Secure endpoints](#secure-endpoints)
 * [Non-secure endpoints](#non-secure-endpoints)
-* API documentation
+* [API documentation](#API-documentation)
 * Error codes
 # Base URL
 * The base URL is: http://ptg.somee.com
