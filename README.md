@@ -180,7 +180,7 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 
 * Overview
 ![wms interface LL00X](https://user-images.githubusercontent.com/41188202/141673089-78ba99bb-ccc5-4ce9-9b44-8f9965de67fb.png)
-* LL001 Model Description
+* LL001 Model Dictionary
 ![image](https://user-images.githubusercontent.com/41188202/142146640-cbdd2bdb-3991-44ac-ad10-6f803b19a1db.png)
 
 # Error codes
