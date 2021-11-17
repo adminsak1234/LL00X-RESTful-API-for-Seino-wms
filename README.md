@@ -36,6 +36,7 @@ Select request type as POST and add request URL as {Base URL}/api/ll001/method1
 * Add key as [Content-Type] and value "application/json"
 #### On Body tab
 Now click on Body – select raw – select Text as JSON (application/json)
+Then pass the Jason as below
 ```javascript
 {
     "TXLL_ID": "6710927",
@@ -152,7 +153,6 @@ Now click on Body – select raw – select Text as JSON (application/json)
     "UpdateBy": "INF"
 }
 ```
-Then pass the Jason as below
 * LL003
 # Non-secure endpoints
 * LL002
