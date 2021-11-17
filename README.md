@@ -30,6 +30,14 @@
 
 # Secure endpoints
 * LL001
+Select request type as POST and add request URL as {base url}/api/ll001/method1
+#### On Headers tab
+* Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
+* Add key as [Content-Type] and value "application/json"
+
+Now click on Body – select raw – select Text as JSON (application/json)
+ 
+Then pass the Jason as below
 * LL003
 # Non-secure endpoints
 * LL002
