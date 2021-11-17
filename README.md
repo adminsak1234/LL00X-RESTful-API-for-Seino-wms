@@ -1,6 +1,7 @@
 # LL00X RESTful API For Seino wms
 # Releases
 * 2021-11-14 First update
+
 # Table of contents
 * [Base URL](#base-url)
 * [Access Token](#access-token)
@@ -8,8 +9,10 @@
 * [Non-secure endpoints](#non-secure-endpoints)
 * [API documentation](#API-documentation)
 * [Error codes](#error-codes)
+
 # Base URL
 * The base URL is: http://ptg.somee.com
+* 
 # Access Token
 #### Description:
 * username = {your username} (for exam: PTGLL00X)
@@ -152,7 +155,9 @@ Now click on Body – select raw – select Text as JSON (application/json), The
     "UpdateBy": "INF"
 }
 ```
-* LL003
+#### Example by Postman:
+
+## LL003
 # Non-secure endpoints
 * LL002
 # API documentation
