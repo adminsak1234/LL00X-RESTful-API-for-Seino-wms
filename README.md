@@ -31,7 +31,8 @@
   }
 ```
 
-# Secure endpoints [back to top](#Table-of-contents)
+# Secure endpoints
+[back to top](#Table-of-contents)
 ## LL001
 Select request type as POST and add request URL as {Base URL}/api/ll001/method1
 #### On Headers tab
@@ -163,7 +164,8 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 
 ## LL003
 
-# Non-secure endpoints [back to top](#Table-of-contents)
+# Non-secure endpoints
+[back to top](#Table-of-contents)
 ## LL002 (for wms caller only)
 # API documentation
 
@@ -182,7 +184,8 @@ Now click on Body – select raw – select Text as JSON (application/json), The
   }
 ```
 
-# Error codes [back to top](#Table-of-contents)
+# Error codes
+[back to top](#Table-of-contents)
 Refer to the following descriptions:
 
 Code | Description
