@@ -162,6 +162,7 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 ![image](https://user-images.githubusercontent.com/41188202/142135270-7b022a98-4e76-4dbe-bff6-02e4a2938d4e.png)
 * On Body tab, Follow below.
 ![image](https://user-images.githubusercontent.com/41188202/142135728-1b19a73e-ab71-4b36-b658-a362b5e92aff.png)
+* Response Json form
 
 ## LL003
 
