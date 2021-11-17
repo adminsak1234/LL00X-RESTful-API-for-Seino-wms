@@ -185,7 +185,7 @@ Now click on Body – select raw – select Text as JSON (application/json), The
     "message": ""
   }
 ```
-* LL001 Model
+* LL001 Model Description
 ![image](https://user-images.githubusercontent.com/41188202/142146640-cbdd2bdb-3991-44ac-ad10-6f803b19a1db.png)
 
 # Error codes
