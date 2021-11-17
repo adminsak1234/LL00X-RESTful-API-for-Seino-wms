@@ -38,7 +38,7 @@
 Select request type as POST and add request URL as {Base URL}/api/ll001/method1
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
-* Add key as [Content-Type] and value "application/json"
+* Add key as [Content-Type] and value as "application/json"
 #### On Body tab
 Now click on Body – select raw – select Text as JSON (application/json), Then pass the Jason as below
 ```javascript
