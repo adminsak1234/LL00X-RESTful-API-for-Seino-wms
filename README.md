@@ -159,7 +159,7 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 
 ## LL003
 # Non-secure endpoints
-* LL002
+## LL002 (for wms caller only)
 # API documentation
 
 * Overview
