@@ -163,11 +163,11 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 * On Body tab, Follow below.
 ![image](https://user-images.githubusercontent.com/41188202/142135728-1b19a73e-ab71-4b36-b658-a362b5e92aff.png)
 * Response Json form
-![image](https://user-images.githubusercontent.com/41188202/142157970-361de230-b3ba-4288-8a0f-54d068f3258a.png)
+![image](https://user-images.githubusercontent.com/41188202/142178293-dbf0e42f-6c81-4fc1-9b07-d5b37e8bba1b.png)
 ```javascript
 {
     "error": "00",
-    "error_description": "No Error, Hello LL001"
+    "error_description": "No Error, Hello LL001 : your data 6 row"
 }
 ```
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
