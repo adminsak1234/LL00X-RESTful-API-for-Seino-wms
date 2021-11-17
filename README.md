@@ -181,7 +181,7 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 * Overview
 ![wms interface LL00X](https://user-images.githubusercontent.com/41188202/141673089-78ba99bb-ccc5-4ce9-9b44-8f9965de67fb.png)
 * LL001 Model Dictionary
-![image](https://user-images.githubusercontent.com/41188202/142146640-cbdd2bdb-3991-44ac-ad10-6f803b19a1db.png)
+![image](https://user-images.githubusercontent.com/41188202/142178539-281b76dc-0cfe-4e4f-aac8-7d56931e1f10.png)
 
 # Error codes
 [back to top](#Table-of-contents)
