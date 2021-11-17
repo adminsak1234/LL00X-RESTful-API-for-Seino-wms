@@ -184,7 +184,7 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 
 # Error codes
 [back to top](#Table-of-contents)
-Refer to the following descriptions:
+* Refer to the following descriptions:
 
 Code | Description
 ------------ | ------------
