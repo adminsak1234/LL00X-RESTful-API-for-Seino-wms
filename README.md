@@ -13,7 +13,8 @@
 # Base URL
 [back to top](#Table-of-contents)
 * The base URL is: http://ptg.somee.com
-# Access Token [back to top](#Table-of-contents)
+# Access Token
+[back to top](#Table-of-contents)
 #### Description:
 * username = {your username} (for exam: PTGLL00X)
 * password = {your password} (for exam: PTGX00LL)
