@@ -170,7 +170,7 @@ Now click on Body – select raw – select Text as JSON (application/json), The
     "error_description": "No Error, Hello LL001"
 }
 ```
-* Download for example -> [TestCallAPIWithToken.zip](#https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
+* Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
 ## LL003
 
 # Non-secure endpoints
