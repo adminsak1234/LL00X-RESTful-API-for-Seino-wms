@@ -16,7 +16,7 @@
 * password = {your password} (for exam: PTGX00LL)
 * grant_type = password
 * Access Token Expire in 60 Minutes
-#### step 1:
+#### Example by Postman:
 * POST/{Base URL}/token
 ![image](https://user-images.githubusercontent.com/41188202/141952070-1d9c5ca1-90e5-42c8-98ac-8fb94e89ba4d.png)
 * Response
