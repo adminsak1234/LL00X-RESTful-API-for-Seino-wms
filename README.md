@@ -1,5 +1,6 @@
 # LL00X RESTful API For Seino wms
 # Releases
+* 2021-11-18 LL001, LL003 demo 
 * 2021-11-14 First update
 
 # Table of contents
