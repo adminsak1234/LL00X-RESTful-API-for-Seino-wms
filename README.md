@@ -245,9 +245,8 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 * On Headers tab, Follow below.
 ![image](https://user-images.githubusercontent.com/41188202/142376073-5fc2e661-c7d9-4833-a7ae-e6369368c87e.png)
 * On Body tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/142368057-6cbaf2a6-b176-4afd-bb2d-b54f5b36192f.png)
+![image](https://user-images.githubusercontent.com/41188202/142376264-d6a8a07f-1ffb-48aa-aa09-2ee7ef191d8c.png)
 * Response Json form
-![image](https://user-images.githubusercontent.com/41188202/142178293-dbf0e42f-6c81-4fc1-9b07-d5b37e8bba1b.png)
 ```javascript
 {
     "error": "00",
