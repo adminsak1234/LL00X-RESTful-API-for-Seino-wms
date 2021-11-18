@@ -172,12 +172,80 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 ```
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
 ## LL003
-
+Select request type as POST and add request URL as {Base URL}/api/ll003/method1
+#### On Headers tab
+* Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
+* Add key as [Content-Type] and value as "application/json"
+#### On Body tab
+Now click on Body – select raw – select Text as JSON (application/json), Then pass the Jason as below
+```javascript
+[
+    {
+        "TXLL_ID": "908762",
+        "DOCUMENT_NO": "312100015059",
+        "DOC_DATE": "20211105",
+        "SRC_NAME": "VRM",
+        "TARGET_NAME": "VRM",
+        "COMP_CODE": "1012",
+        "DOC_TYPE": "ZGEN",
+        "VENDOR": "21001921",
+        "PLANT": "1200",
+        "PO_ITEM": "00010",
+        "MATERIAL": "600000397",
+        "QUANTITY": "1.00",
+        "QTY_CONFIRM": "1.00",
+        "PO_UNIT": "AU",
+        "NET_PRICE": "1000000.0000",
+        "PRICE_UNIT": "1000000.0000",
+        "CREATEBY": "INF",
+        "UPDATEBY": "INF"
+    },
+    {
+        "TXLL_ID": "908764",
+        "DOCUMENT_NO": "312100015059",
+        "DOC_DATE": "20211105",
+        "SRC_NAME": "VRM",
+        "TARGET_NAME": "VRM",
+        "COMP_CODE": "1012",
+        "DOC_TYPE": "ZGEN",
+        "VENDOR": "21001921",
+        "PLANT": "1205",
+        "PO_ITEM": "00030",
+        "MATERIAL": "600000397",
+        "QUANTITY": "1.00",
+        "QTY_CONFIRM": "1.00",
+        "PO_UNIT": "AU",
+        "NET_PRICE": "1000000.0000",
+        "PRICE_UNIT": "1000000.0000",
+        "CREATEBY": "INF",
+        "UPDATEBY": "INF"
+    },
+    {
+        "TXLL_ID": "908765",
+        "DOCUMENT_NO": "312100015059",
+        "DOC_DATE": "20211105",
+        "SRC_NAME": "VRM",
+        "TARGET_NAME": "VRM",
+        "COMP_CODE": "1012",
+        "DOC_TYPE": "ZGEN",
+        "VENDOR": "21001921",
+        "PLANT": "DM02",
+        "PO_ITEM": "00040",
+        "MATERIAL": "600000397",
+        "QUANTITY": "1.00",
+        "QTY_CONFIRM": "1.00",
+        "PO_UNIT": "AU",
+        "NET_PRICE": "1000000.0000",
+        "PRICE_UNIT": "1000000.0000",
+        "CREATEBY": "INF",
+        "UPDATEBY": "INF"
+    }
+]
+```
 # Non-secure endpoints
 [back to top](#Table-of-contents)
 ## LL002 (for wms caller only)
 # API documentation
-
 * Overview
 ![wms interface LL00X](https://user-images.githubusercontent.com/41188202/141673089-78ba99bb-ccc5-4ce9-9b44-8f9965de67fb.png)
 * LL001 Model Dictionary
