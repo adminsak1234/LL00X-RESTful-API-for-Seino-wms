@@ -179,8 +179,7 @@
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
 ## LL003
 * Select request type as POST and add request URL as {Base URL}/api/ll003/method1
-![image](https://user-images.githubusercontent.com/41188202/142393008-f1ddfa5b-be90-43f0-b6aa-c21edf00b320.png)
-
+ ![image](https://user-images.githubusercontent.com/41188202/142393008-f1ddfa5b-be90-43f0-b6aa-c21edf00b320.png) 
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
 * Add key as [Content-Type] and value as "application/json"
