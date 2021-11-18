@@ -243,7 +243,7 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 
 #### Example by Postman:
 * On Headers tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/142135270-7b022a98-4e76-4dbe-bff6-02e4a2938d4e.png)
+![image](https://user-images.githubusercontent.com/41188202/142376073-5fc2e661-c7d9-4833-a7ae-e6369368c87e.png)
 * On Body tab, Follow below.
 ![image](https://user-images.githubusercontent.com/41188202/142368057-6cbaf2a6-b176-4afd-bb2d-b54f5b36192f.png)
 * Response Json form
@@ -251,7 +251,7 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 ```javascript
 {
     "error": "00",
-    "error_description": "No Error, Hello LL001 : your data 6 row"
+    "error_description": "No Error, Hello LL003 : your data 3 row"
 }
 ```
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
