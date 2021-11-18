@@ -46,7 +46,7 @@
 
 #### On Body tab
 * Now click on Body – select raw – select Text as JSON (application/json), Then pass the Jason as below
-![image](https://user-images.githubusercontent.com/41188202/142391406-fb253d39-beeb-4a67-baa3-15742093db06.png)
+![image](https://user-images.githubusercontent.com/41188202/142391790-f0734fa8-8847-4a28-aaf0-e50da332df3b.png)
 ```javascript
 [{
     "TXLL_ID": "6710927",
