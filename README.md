@@ -42,6 +42,8 @@
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
 * Add key as [Content-Type] and value as "application/json"
+![image](https://user-images.githubusercontent.com/41188202/142391080-a91b7ccb-6595-4dda-9a79-fa6c024f19fb.png)
+
 #### On Body tab
 Now click on Body – select raw – select Text as JSON (application/json), Then pass the Jason as below
 ```javascript
