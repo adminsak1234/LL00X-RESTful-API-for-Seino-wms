@@ -58,8 +58,8 @@ Now click on Body – select raw – select Text as JSON (application/json), The
     "ITEMSTATUSCODE": "01",
     "PRODUCTUNITCODE": "BAG",
     "DESCRIPTION": "TEST LL001",
-    "CreateBy": "INF",
-    "UpdateBy": "INF"
+    "CREATEBY": "INF",
+    "UPDATEBY": "INF"
 },
 {
     "TXLL_ID": "6710927",
@@ -77,8 +77,8 @@ Now click on Body – select raw – select Text as JSON (application/json), The
     "ITEMSTATUSCODE": "01",
     "PRODUCTUNITCODE": "BAG",
     "DESCRIPTION": "TEST LL001",
-    "CreateBy": "INF",
-    "UpdateBy": "INF"
+    "CREATEBY": "INF",
+    "UPDATEBY": "INF"
 },
 {
     "TXLL_ID": "6710927",
@@ -96,8 +96,8 @@ Now click on Body – select raw – select Text as JSON (application/json), The
     "ITEMSTATUSCODE": "01",
     "PRODUCTUNITCODE": "BAG",
     "DESCRIPTION": "TEST LL001",
-    "CreateBy": "INF",
-    "UpdateBy": "INF"
+    "CREATEBY": "INF",
+    "UPDATEBY": "INF"
 },
 {
     "TXLL_ID": "6710927",
@@ -115,8 +115,8 @@ Now click on Body – select raw – select Text as JSON (application/json), The
     "ITEMSTATUSCODE": "01",
     "PRODUCTUNITCODE": "BAG",
     "DESCRIPTION": "TEST LL001",
-    "CreateBy": "INF",
-    "UpdateBy": "INF"
+    "CREATEBY": "INF",
+    "UPDATEBY": "INF"
 },
 {
     "TXLL_ID": "6710927",
@@ -134,8 +134,8 @@ Now click on Body – select raw – select Text as JSON (application/json), The
     "ITEMSTATUSCODE": "01",
     "PRODUCTUNITCODE": "BAG",
     "DESCRIPTION": "TEST LL001",
-    "CreateBy": "INF",
-    "UpdateBy": "INF"
+    "CREATEBY": "INF",
+    "UPDATEBY": "INF"
 },
 {
     "TXLL_ID": "6710927",
@@ -153,8 +153,8 @@ Now click on Body – select raw – select Text as JSON (application/json), The
     "ITEMSTATUSCODE": "01",
     "PRODUCTUNITCODE": "BAG",
     "DESCRIPTION": "TEST LL001",
-    "CreateBy": "INF",
-    "UpdateBy": "INF"
+    "CREATEBY": "INF",
+    "UPDATEBY": "INF"
 }]
 ```
 #### Example by Postman:
