@@ -257,7 +257,6 @@ Now click on Body – select raw – select Text as JSON (application/json), The
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
 
 # Non-secure endpoints
-[back to top](#Table-of-contents)
 ## LL002 (for wms caller only)
 # API documentation
 * Overview
