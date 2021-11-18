@@ -37,6 +37,8 @@
 [back to top](#Table-of-contents)
 ## LL001
 Select request type as POST and add request URL as {Base URL}/api/ll001/method1
+![image](https://user-images.githubusercontent.com/41188202/142390596-ad1ccde4-6efd-4a54-9a83-a257b18c051a.png)
+
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
 * Add key as [Content-Type] and value as "application/json"
