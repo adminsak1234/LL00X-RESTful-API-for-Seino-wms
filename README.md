@@ -178,12 +178,15 @@
 ```
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
 ## LL003
-Select request type as POST and add request URL as {Base URL}/api/ll003/method1
+* Select request type as POST and add request URL as {Base URL}/api/ll003/method1
+![image](https://user-images.githubusercontent.com/41188202/142392211-39677685-419c-4efb-9418-daf6cae53dbc.png)
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
 * Add key as [Content-Type] and value as "application/json"
+![image](https://user-images.githubusercontent.com/41188202/142392304-b864d5e8-c10b-46d2-a0fc-8136f934b219.png)
 #### On Body tab
-Now click on Body – select raw – select Text as JSON (application/json), Then pass the Jason as below
+* Now click on Body – select raw – select Text as JSON (application/json), Then pass the Jason as below
+![image](https://user-images.githubusercontent.com/41188202/142392462-327a5b9c-b230-4f06-a66a-4caa1fa145e0.png)
 ```javascript
 [{
     "TXLL_ID": "908762",
