@@ -6,7 +6,7 @@
 # Table of contents
 * [Base URL](#base-url)
 * [Access Token](#access-token)
-* [Secure endpoints](#secure-endpoints)
+* [LL001](#ll001)
 * [Non-secure endpoints](#non-secure-endpoints)
 * [API documentation](#API-documentation)
 * [Error codes](#error-codes)
@@ -33,9 +33,8 @@
   }
 ```
 
-# Secure endpoints
+# LL001
 [back to top](#Table-of-contents)
-## LL001
 * Select request type as POST and add request URL as {Base URL}/api/ll001/method1 
 ![image](https://user-images.githubusercontent.com/41188202/142390596-ad1ccde4-6efd-4a54-9a83-a257b18c051a.png)
 
