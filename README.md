@@ -275,9 +275,9 @@
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
 * Add key as [Content-Type] and value as "application/json"
 ![image](https://user-images.githubusercontent.com/41188202/142392304-b864d5e8-c10b-46d2-a0fc-8136f934b219.png)
-#### On Body tab
-* Now click on Body – select raw – select Text as JSON (application/json), Then pass the Jason as below
-![image](https://user-images.githubusercontent.com/41188202/142392462-327a5b9c-b230-4f06-a66a-4caa1fa145e0.png)
+#### On Params tab
+* Now click on Params, Then add key as [FKPickOrderHD] and values as {id}
+![image](https://user-images.githubusercontent.com/41188202/142555939-2b223ba9-0bba-4957-a72c-0b49bb508fcc.png)
 
 #### Example by Postman:
 * On Headers tab, Follow below.
