@@ -268,6 +268,30 @@
 
 # LL002
 [back to top](#Table-of-contents)
+* Select request type as GET and add request URL as {Base URL}/api/ll002/method1?FKPickOrderHD={id} 
+![image](https://user-images.githubusercontent.com/41188202/142393992-16c09866-5c37-4a00-b8d6-8b2c3f60b5da.png)
+
+#### On Headers tab
+* Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
+* Add key as [Content-Type] and value as "application/json"
+![image](https://user-images.githubusercontent.com/41188202/142392304-b864d5e8-c10b-46d2-a0fc-8136f934b219.png)
+#### On Body tab
+* Now click on Body – select raw – select Text as JSON (application/json), Then pass the Jason as below
+![image](https://user-images.githubusercontent.com/41188202/142392462-327a5b9c-b230-4f06-a66a-4caa1fa145e0.png)
+
+#### Example by Postman:
+* On Headers tab, Follow below.
+![image](https://user-images.githubusercontent.com/41188202/142376073-5fc2e661-c7d9-4833-a7ae-e6369368c87e.png)
+* On Body tab, Follow below.
+![image](https://user-images.githubusercontent.com/41188202/142376264-d6a8a07f-1ffb-48aa-aa09-2ee7ef191d8c.png)
+* Response Json form
+![image](https://user-images.githubusercontent.com/41188202/142385526-c64f7408-91f8-4a3d-823e-81874c62f15e.png)
+```javascript
+{
+    "error": "00",
+    "error_description": "No Error, Hello LL003 : your data 3 row"
+}
+```
 # API documentation
 * Overview
 ![wms interface LL00X](https://user-images.githubusercontent.com/41188202/141673089-78ba99bb-ccc5-4ce9-9b44-8f9965de67fb.png)
