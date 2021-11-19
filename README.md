@@ -6,8 +6,9 @@
 # Table of contents
 * [Base URL](#base-url)
 * [Access Token](#access-token)
-* [LL001](#ll001)
-* [Non-secure endpoints](#non-secure-endpoints)
+* [LL001 (wms provides)](#ll001)
+* [LL002](#ll002)
+* [LL003 (wms provides)](#ll003)
 * [API documentation](#API-documentation)
 * [Error codes](#error-codes)
 
@@ -176,7 +177,7 @@
 }
 ```
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
-## LL003
+# LL003
 * Select request type as POST and add request URL as {Base URL}/api/ll003/method1 
 ![image](https://user-images.githubusercontent.com/41188202/142393992-16c09866-5c37-4a00-b8d6-8b2c3f60b5da.png)
 
