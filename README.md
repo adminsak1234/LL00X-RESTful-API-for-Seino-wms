@@ -269,7 +269,7 @@
 # LL002
 [back to top](#Table-of-contents)
 * Select request type as GET and add request URL as {Base URL}/api/ll002/method1?FKPickOrderHD={id} 
-![image](https://user-images.githubusercontent.com/41188202/142393992-16c09866-5c37-4a00-b8d6-8b2c3f60b5da.png)
+![image](https://user-images.githubusercontent.com/41188202/142555722-1c3d21fb-f02c-4f1b-8b1b-d0be9c6a662d.png)
 
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
