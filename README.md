@@ -281,15 +281,15 @@
 
 #### Example by Postman:
 * On Headers tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/142376073-5fc2e661-c7d9-4833-a7ae-e6369368c87e.png)
-* On Body tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/142376264-d6a8a07f-1ffb-48aa-aa09-2ee7ef191d8c.png)
+![image](https://user-images.githubusercontent.com/41188202/142556115-9814df6a-3891-4237-ae87-a38e2b203479.png)
+* On Params tab, Follow below.
+![image](https://user-images.githubusercontent.com/41188202/142556160-8e1b3f0b-b49a-4baf-80d7-604744e76cb6.png)
 * Response Json form
-![image](https://user-images.githubusercontent.com/41188202/142385526-c64f7408-91f8-4a3d-823e-81874c62f15e.png)
+![image](https://user-images.githubusercontent.com/41188202/142556185-dddcad63-9d5f-47c2-8da6-4e76fe474149.png)
 ```javascript
 {
     "error": "00",
-    "error_description": "No Error, Hello LL003 : your data 3 row"
+    "error_description": "No Error, Hello LL002 : your  FKPickOrderHD=123"
 }
 ```
 # API documentation
