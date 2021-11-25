@@ -205,11 +205,11 @@
 * On Params tab, Follow below.
 ![image](https://user-images.githubusercontent.com/41188202/143396743-1067ab91-1eb8-47c0-8a0d-073af4526b7c.png)
 * Response Json form
-![image](https://user-images.githubusercontent.com/41188202/142556185-dddcad63-9d5f-47c2-8da6-4e76fe474149.png)
+![image](https://user-images.githubusercontent.com/41188202/143397046-179dab77-981e-4bb1-bd2c-da39a08da5f1.png)
 ```javascript
 {
     "error": "00",
-    "error_description": "No Error, Hello LL002 : your  FKPickOrderHD=123"
+    "error_description": "No Error, Hello LL001 To Cancel : your doc TEST1234"
 }
 ```
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
