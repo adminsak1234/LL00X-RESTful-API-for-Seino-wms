@@ -303,7 +303,7 @@
 # LL003 To Cancel
 [back to top](#Table-of-contents)
 * Select request type as GET and add request URL as {Base URL}/api/ll003/method2?doc={documentNo} 
-![image](https://user-images.githubusercontent.com/41188202/143394815-d4c95de7-c5a8-4528-a22e-57f2f13c1f51.png)
+![image](https://user-images.githubusercontent.com/41188202/143399546-65fcf6eb-086b-4354-8cf4-ff87c53cc063.png)
 
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
@@ -315,15 +315,15 @@
 
 #### Example by Postman:
 * On Headers tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/143396579-d9b60b53-b46e-4d90-adce-48d80c06e8b8.png)
+![image](https://user-images.githubusercontent.com/41188202/143399662-0a0b9553-097e-4106-b53f-fd7b8cf81cee.png)
 * On Params tab, Follow below.
 ![image](https://user-images.githubusercontent.com/41188202/143396743-1067ab91-1eb8-47c0-8a0d-073af4526b7c.png)
 * Response Json form
-![image](https://user-images.githubusercontent.com/41188202/143397046-179dab77-981e-4bb1-bd2c-da39a08da5f1.png)
+![image](https://user-images.githubusercontent.com/41188202/143399761-5cd0bd5e-46e2-44bc-aeef-6325535cb528.png)
 ```javascript
 {
     "error": "00",
-    "error_description": "No Error, Hello LL001 To Cancel : your doc TEST1234"
+    "error_description": "No Error, Hello LL003 To Cancel : your doc TEST1234"
 }
 ```
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
