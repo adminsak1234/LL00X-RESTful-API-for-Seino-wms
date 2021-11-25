@@ -188,7 +188,7 @@
 ```
 # LL001 To Cancel
 [back to top](#Table-of-contents)
-* Select request type as GET and add request URL as {Base URL}/api/ll002/method1?FKPickOrderHD={id} 
+* Select request type as GET and add request URL as {Base URL}/api/ll001/method2?doc={documentNo} 
 ![image](https://user-images.githubusercontent.com/41188202/142555722-1c3d21fb-f02c-4f1b-8b1b-d0be9c6a662d.png)
 
 #### On Headers tab
