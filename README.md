@@ -189,7 +189,7 @@
 # LL001 To Cancel
 [back to top](#Table-of-contents)
 * Select request type as GET and add request URL as {Base URL}/api/ll001/method2?doc={documentNo} 
-![image](https://user-images.githubusercontent.com/41188202/142555722-1c3d21fb-f02c-4f1b-8b1b-d0be9c6a662d.png)
+![image](https://user-images.githubusercontent.com/41188202/143394815-d4c95de7-c5a8-4528-a22e-57f2f13c1f51.png)
 
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
