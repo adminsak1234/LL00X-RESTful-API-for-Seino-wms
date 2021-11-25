@@ -1,8 +1,9 @@
 # LL00X RESTful API For Seino wms
 # Releases
-* 2021-11-19 LL002 demo get request
-* 2021-11-18 LL001, LL003 demo 
-* 2021-11-14 First update
+* 2021-11-25 v. 0.0.4
+* 2021-11-19 LL002 demo get request v. 0.0.3
+* 2021-11-18 LL001, LL003 demo v. 0.0.2
+* 2021-11-14 First update v. 0.0.1
 
 # Table of contents
 * [API documentation](#API-documentation)
