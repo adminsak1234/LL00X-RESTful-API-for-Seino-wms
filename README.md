@@ -196,8 +196,8 @@
 * Add key as [Content-Type] and value as "application/json"
 ![image](https://user-images.githubusercontent.com/41188202/142392304-b864d5e8-c10b-46d2-a0fc-8136f934b219.png)
 #### On Params tab
-* Now click on Params, Then add key as [FKPickOrderHD] and values as {id}
-![image](https://user-images.githubusercontent.com/41188202/142555939-2b223ba9-0bba-4957-a72c-0b49bb508fcc.png)
+* Now click on Params, Then add key as [doc] and values as {documentNo}
+![image](https://user-images.githubusercontent.com/41188202/143395316-b7c65284-f692-49a3-bd23-8a245b06099a.png)
 
 #### Example by Postman:
 * On Headers tab, Follow below.
