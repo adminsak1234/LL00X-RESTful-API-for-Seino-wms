@@ -203,7 +203,7 @@
 * On Headers tab, Follow below.
 ![image](https://user-images.githubusercontent.com/41188202/143396579-d9b60b53-b46e-4d90-adce-48d80c06e8b8.png)
 * On Params tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/142556160-8e1b3f0b-b49a-4baf-80d7-604744e76cb6.png)
+![image](https://user-images.githubusercontent.com/41188202/143396743-1067ab91-1eb8-47c0-8a0d-073af4526b7c.png)
 * Response Json form
 ![image](https://user-images.githubusercontent.com/41188202/142556185-dddcad63-9d5f-47c2-8da6-4e76fe474149.png)
 ```javascript
