@@ -308,7 +308,7 @@
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
 * Add key as [Content-Type] and value as "application/json"
-![image](https://user-images.githubusercontent.com/41188202/142392304-b864d5e8-c10b-46d2-a0fc-8136f934b219.png)
+![image](https://user-images.githubusercontent.com/41188202/143399903-f0d5479c-73ea-4b56-a521-91939b57233f.png)
 #### On Params tab
 * Now click on Params, Then add key as [doc] and values as {documentNo}
 ![image](https://user-images.githubusercontent.com/41188202/143395316-b7c65284-f692-49a3-bd23-8a245b06099a.png)
