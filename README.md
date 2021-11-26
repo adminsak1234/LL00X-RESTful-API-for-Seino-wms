@@ -329,32 +329,7 @@
 ```
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
 
-# LL002
-[back to top](#Table-of-contents)
-* Select request type as GET and add request URL as {Base URL}/api/ll002/method1?FKPickOrderHD={id} 
-![image](https://user-images.githubusercontent.com/41188202/142555722-1c3d21fb-f02c-4f1b-8b1b-d0be9c6a662d.png)
 
-#### On Headers tab
-* Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
-* Add key as [Content-Type] and value as "application/json"
-![image](https://user-images.githubusercontent.com/41188202/142392304-b864d5e8-c10b-46d2-a0fc-8136f934b219.png)
-#### On Params tab
-* Now click on Params, Then add key as [FKPickOrderHD] and values as {id}
-![image](https://user-images.githubusercontent.com/41188202/142555939-2b223ba9-0bba-4957-a72c-0b49bb508fcc.png)
-
-#### Example by Postman:
-* On Headers tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/142556115-9814df6a-3891-4237-ae87-a38e2b203479.png)
-* On Params tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/142556160-8e1b3f0b-b49a-4baf-80d7-604744e76cb6.png)
-* Response Json form
-![image](https://user-images.githubusercontent.com/41188202/142556185-dddcad63-9d5f-47c2-8da6-4e76fe474149.png)
-```javascript
-{
-    "error": "00",
-    "error_description": "No Error, Hello LL002 : your  FKPickOrderHD=123"
-}
-```
 # Error codes
 [back to top](#Table-of-contents)
 * Refer to the following descriptions:
