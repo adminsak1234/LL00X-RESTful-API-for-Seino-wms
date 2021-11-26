@@ -11,7 +11,6 @@
 * [Access Token](#access-token)
 * [LL001 (wms provides)](#ll001)
 * [LL001 To Cancel (wms provides)](#LL001-To-Cancel)
-* [LL002](#ll002)
 * [LL003 (wms provides)](#ll003)
 * [LL003 To Cancel (wms provides)](#ll003-To-Cancel)
 * [Error codes](#error-codes)
