@@ -19,9 +19,9 @@
 * Overview
 ![wms interface LL00X](https://user-images.githubusercontent.com/41188202/141673089-78ba99bb-ccc5-4ce9-9b44-8f9965de67fb.png)
 * LL001 Model Dictionary
-![image](https://user-images.githubusercontent.com/41188202/142178539-281b76dc-0cfe-4e4f-aac8-7d56931e1f10.png)
+![image](https://user-images.githubusercontent.com/41188202/143969934-8f3f0ec2-67ef-4829-ba2b-4479f928cbf8.png)
 * LL003 Model Dictionary
-![image](https://user-images.githubusercontent.com/41188202/142386769-9e6dbf9b-da76-4a53-a5cc-b8da3246c1bc.png)
+![image](https://user-images.githubusercontent.com/41188202/143969955-b6c5a9da-8f6c-472c-884c-4cfca3f58f42.png)
 
 # Base URL
 [back to top](#Table-of-contents)
