@@ -337,4 +337,12 @@ Code | Description
 ------------ | ------------
 00 | No error
 01 | Invalid JSON
+02 | Dument duplicate
+03 | Dcument cannot change because warehouse work in process
+04 | SRC_NAME not found, please check
+05 | COMP_CODE not found, please check
+06 | CUSTOMERCODE not found, please check
+07 | WAREHOUSECODE not found, please check
+08 | PRODUCTCODE not found, please check
+09 | PRODUCTUNITCODE not found, please check
 90 | Server error (please contact support)
