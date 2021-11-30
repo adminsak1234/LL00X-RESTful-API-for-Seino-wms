@@ -346,13 +346,15 @@ Code | Description
 08 | PRODUCTCODE not found, please check
 09 | PRODUCTUNITCODE not found, please check
 10 | Found multi Document in request
-11 | Fix value is wrong, please check
+11 | Fix value is wrong, please check [click](#Fix-value-is-wrong-for-example)
 90 | Server error (please contact support)
 
 ## Invalid JSON for example
 ##### 1![image](https://user-images.githubusercontent.com/41188202/143983445-f0a20b2d-b51b-424a-9adc-87cd0c20c9bf.png)
 ##### 2![image](https://user-images.githubusercontent.com/41188202/143983677-ec8fdc9b-8c24-4120-bf85-daac79ab8f2d.png)
 ##### 3![image](https://user-images.githubusercontent.com/41188202/143983856-a1d43758-dd69-4539-942b-baecdb952760.png)
+## Fix value is wrong for example
+##### 1![image](https://user-images.githubusercontent.com/41188202/144006444-600f6304-7725-4ce5-a292-af7d70741f39.png)
 
 
 
