@@ -346,6 +346,7 @@ Code | Description
 08 | PRODUCTCODE not found, please check
 09 | PRODUCTUNITCODE not found, please check
 10 | Found multi Document in request
+11 | Fix value is wrong
 90 | Server error (please contact support)
 
 ## Invalid JSON for example
