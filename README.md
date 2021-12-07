@@ -21,6 +21,7 @@
 * LL001 Model Dictionary
 ![image](https://user-images.githubusercontent.com/41188202/143969934-8f3f0ec2-67ef-4829-ba2b-4479f928cbf8.png)
 * LL001 Spec [link](https://bit.ly/3doP2jI){:target="_blank"}
+* <a href="https://bit.ly/3doP2jI/" target="_blank">Hello, world!</a>
 * LL003 Model Dictionary
 ![image](https://user-images.githubusercontent.com/41188202/143969955-b6c5a9da-8f6c-472c-884c-4cfca3f58f42.png)
 
