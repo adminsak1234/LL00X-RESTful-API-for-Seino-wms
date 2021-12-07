@@ -23,6 +23,7 @@
 * LL001 Spec [click](https://bit.ly/3doP2jI)
 * LL003 Model Dictionary
 ![image](https://user-images.githubusercontent.com/41188202/143969955-b6c5a9da-8f6c-472c-884c-4cfca3f58f42.png)
+* LL003 Spec [click](https://bit.ly/3dpbSI7)
 
 # Base URL
 [back to top](#Table-of-contents)
