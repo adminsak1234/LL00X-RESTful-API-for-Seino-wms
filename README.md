@@ -23,8 +23,8 @@
 ![image](https://user-images.githubusercontent.com/41188202/143969934-8f3f0ec2-67ef-4829-ba2b-4479f928cbf8.png)
 * LL003 Model Dictionary
 ![image](https://user-images.githubusercontent.com/41188202/143969955-b6c5a9da-8f6c-472c-884c-4cfca3f58f42.png)
-* Spec [click](https://bit.ly/3doP2jI)
-* Template spec [click](https://bit.ly/3dpbSI7)
+* Spec [click](https://seinosaha-my.sharepoint.com/:w:/g/personal/itssl_sslog_co_th/EWkxt6dRU-tIuF5_Y6wCQ94B8wqWAK5VVGsPotmfjwla7A?e=U5ZaUg)
+* Template spec [click](https://seinosaha-my.sharepoint.com/:x:/g/personal/itssl_sslog_co_th/ESwfT-49cPFDlpTdWzSkvuoBJAYs1atNMDsjsAN71WRDsA?e=C0FxVn)
 
 # Base URL
 [back to top](#Table-of-contents)
