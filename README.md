@@ -350,6 +350,7 @@ Code | Description
 09 | PRODUCTUNITCODE not found, please check
 10 | Found multi Document in request
 11 | Fix value is wrong, please check [click](#Fix-value-is-wrong-for-example)
+12 | COMP_CODE, PRODUCTCODE, PRODUCTUNITCODE, WAREHOUSECODE Not matching
 90 | Server error (please contact support)
 
 ## Invalid JSON for example
