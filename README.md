@@ -340,7 +340,7 @@ Code | Description
 ------------ | ------------
 00 | No error
 01 | Invalid JSON [click](#Invalid-JSON-for-example)
-02 | Document duplicate
+02 | Document is duplicate
 03 | Document cannot change because warehouse work in process
 04 | SRC_NAME not found, please check
 05 | COMP_CODE not found, please check
