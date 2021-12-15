@@ -1,6 +1,6 @@
 # LL00X RESTful API For Seino wms
 # Releases
-* 2021-12-15 v. 0.0.6 update error code, and ll001 cancel document request
+* 2021-12-15 v. 0.0.6 update error code, LL001 cancel document request
 * 2021-12-07 v. 0.0.5 update template spec
 * 2021-11-25 v. 0.0.4
 * 2021-11-19 LL002 demo get request v. 0.0.3
