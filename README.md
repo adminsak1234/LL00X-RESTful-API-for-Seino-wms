@@ -29,7 +29,7 @@
 
 # Base URL
 [back to top](#Table-of-contents)
-* The base URL is: http://ptg.somee.com
+* The base URL is: http://172.16.112.41:8081
 # Access Token
 [back to top](#Table-of-contents)
 #### Description:
