@@ -9,7 +9,7 @@
 
 # Table of contents
 * [API documentation](#API-documentation)
-* [Base URL](#base-url-(UAT-SERVER))
+* [Base URL](#base-url)
 * [Access Token](#access-token)
 * [LL001 (wms provides)](#ll001)
 * [LL001 To Cancel (wms provides)](#LL001-To-Cancel)
