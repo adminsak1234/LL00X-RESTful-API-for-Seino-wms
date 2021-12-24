@@ -101,7 +101,7 @@
     "UPDATEBY": "INF"
 }]
 ```
-#### Response:
+#### Response
 ![image](https://user-images.githubusercontent.com/41188202/147331772-226dc507-2848-4681-8423-eadb83468dda.png)
 ```javascript
 {
@@ -122,12 +122,7 @@
 * Now click on Params, Then add key as [doc] and values as {documentNo} and add key as [company code] and values as {comp_code}
 ![image](https://user-images.githubusercontent.com/41188202/147332785-68a18d74-302e-42d5-a997-61ddbd2328d5.png)
 
-#### Example by Postman:
-* On Headers tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/143396579-d9b60b53-b46e-4d90-adce-48d80c06e8b8.png)
-* On Params tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/143396743-1067ab91-1eb8-47c0-8a0d-073af4526b7c.png)
-* Response Json form
+#### Response:
 ![image](https://user-images.githubusercontent.com/41188202/143397046-179dab77-981e-4bb1-bd2c-da39a08da5f1.png)
 ```javascript
 {
