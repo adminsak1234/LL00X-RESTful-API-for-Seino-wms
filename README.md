@@ -29,6 +29,7 @@
 
 # Base URL UAT SERVER
 [back to top](#Table-of-contents)
+* Need to connect vpn
 * The base URL is: http://172.16.112.41:8081
 # Access Token
 [back to top](#Table-of-contents)
