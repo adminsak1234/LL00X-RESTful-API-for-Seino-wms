@@ -43,11 +43,11 @@
 ![image](https://user-images.githubusercontent.com/41188202/147317005-ac2dce3e-f46b-4bab-b1ac-6e090305320e.png)
 * Response Json form
 ```javascript
-  {
-    "access_token": "or8grkUIuiFYaUsqFgD3ZXPAS_tyn5brTv3FgSI8El_zhTDrC6Joya_Papt6j_W92txK-s2gJmv9bDSlTSpCI9rK1aRvJ_IZVF3c-lX4wi2PaqypIpl32bK9VOCUAZSltELB3d4PY53vQgy8XlMdpwhpHP4s_CYevnKpJUwC5FjCDWzoN7DQ7W14hkIyeUEb6YjecWQlgp1y2FmUkk6TlqiPl4J8IPTadrWXW6uBI-dheX_T4HamEmYK85mbB9pN42fOFCc--uG-MJ22RTCeTRxwvJFxDpEysw9ETIaEAvc",
-    "status": "ok",
-    "message": ""
-  }
+{
+    "access_token": "PQxjgHlm_QqcR6au7KvhTFsYf5j5YMwZpRJcIfXET72Qw43Qbom9bgK8HahDr1WnGOUp0hrNSkWKXzDF4Gy2hh39D0XUlltozvGvz2hIdpAVKj0ysW3zBjil8EJ0zMUFMUQ9XjkL20H7UBjCx4wnY8rBbC5Ma_LuuOeEnw2e8VVmuWo57wJoXNMoOhGPagtOmZ05hfKgYTHIbQE2gl6kM0-C3VPcAf7MryCZCMbUfdyTD9wHGatsv0w-DBZp3DruBfgTm0AACPDbamVkw2sq0sSdEaUIeXKpTvPC60sM9YA",
+    "token_type": "bearer",
+    "expires_in": 599
+}
 ```
 
 # LL001
