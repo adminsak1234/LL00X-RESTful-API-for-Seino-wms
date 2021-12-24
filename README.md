@@ -105,7 +105,7 @@
 * On Headers tab, Follow below.
 ![image](https://user-images.githubusercontent.com/41188202/147331664-815d8d16-de24-4e32-9bc7-af4d155811b6.png)
 * On Body tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/147331751-da553ce2-965b-4c1e-ad99-9689a919d568.png)
+![image](https://user-images.githubusercontent.com/41188202/147332139-2ffae3f7-2ff6-4488-84d4-297fb1ff4e6c.png)
 * Response Json form
 ![image](https://user-images.githubusercontent.com/41188202/147331772-226dc507-2848-4681-8423-eadb83468dda.png)
 ```javascript
