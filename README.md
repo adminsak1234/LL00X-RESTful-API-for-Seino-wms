@@ -40,7 +40,7 @@
 * Access Token Expire in 10 Minutes
 #### Example by Postman:
 * POST/{Base URL}/token
-![image](https://user-images.githubusercontent.com/41188202/141952070-1d9c5ca1-90e5-42c8-98ac-8fb94e89ba4d.png)
+![image](https://user-images.githubusercontent.com/41188202/147317005-ac2dce3e-f46b-4bab-b1ac-6e090305320e.png)
 * Response Json form
 ```javascript
   {
