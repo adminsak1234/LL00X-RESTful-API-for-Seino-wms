@@ -9,7 +9,7 @@
 
 # Table of contents
 * [API documentation](#API-documentation)
-* [Base URL](#base-url)
+* [Base URL](#base-url-(UAT-SERVER))
 * [Access Token](#access-token)
 * [LL001 (wms provides)](#ll001)
 * [LL001 To Cancel (wms provides)](#LL001-To-Cancel)
@@ -27,7 +27,7 @@
 * Spec [click](https://seinosaha-my.sharepoint.com/:w:/g/personal/itssl_sslog_co_th/EWkxt6dRU-tIuF5_Y6wCQ94B8wqWAK5VVGsPotmfjwla7A?e=U5ZaUg)
 * Template spec [click](https://seinosaha-my.sharepoint.com/:x:/g/personal/itssl_sslog_co_th/ESwfT-49cPFDlpTdWzSkvuoBJAYs1atNMDsjsAN71WRDsA?e=C0FxVn)
 
-# Base URL
+# Base URL (UAT SERVER)
 [back to top](#Table-of-contents)
 * The base URL is: http://172.16.112.41:8081
 # Access Token
