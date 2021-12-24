@@ -53,12 +53,12 @@
 # LL001
 [back to top](#Table-of-contents)
 * Select request type as POST and add request URL as {Base URL}/api/ll001/method1 
-![image](https://user-images.githubusercontent.com/41188202/142390596-ad1ccde4-6efd-4a54-9a83-a257b18c051a.png)
+![image](https://user-images.githubusercontent.com/41188202/147317157-83e1a871-534d-451f-a8a3-8373a46fe228.png)
 
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
 * Add key as [Content-Type] and value as "application/json"
-![image](https://user-images.githubusercontent.com/41188202/142391080-a91b7ccb-6595-4dda-9a79-fa6c024f19fb.png)
+![image](https://user-images.githubusercontent.com/41188202/147317244-bf18e158-259e-4ea6-b917-88853ef51ab9.png)
 
 #### On Body tab
 * Now click on Body – select raw – select Text as JSON (application/json), Then pass the Jason as below
