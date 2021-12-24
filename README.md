@@ -103,7 +103,7 @@
 ```
 #### Example by Postman:
 * On Headers tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/142135270-7b022a98-4e76-4dbe-bff6-02e4a2938d4e.png)
+![image](https://user-images.githubusercontent.com/41188202/147331664-815d8d16-de24-4e32-9bc7-af4d155811b6.png)
 * On Body tab, Follow below.
 ![image](https://user-images.githubusercontent.com/41188202/142368057-6cbaf2a6-b176-4afd-bb2d-b54f5b36192f.png)
 * Response Json form
