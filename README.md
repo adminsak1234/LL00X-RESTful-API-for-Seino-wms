@@ -111,7 +111,7 @@
 ```
 # LL001 To Cancel
 [back to top](#Table-of-contents)
-* Select request type as GET and add request URL as {Base URL}/api/ll001/method2?doc={documentNo}&comp_code={comp_code} 
+* Select request type as GET and add request URL as {Base URL}/api/ll001/method2?doc={documentNo}&comp_code={company code} 
 ![image](https://user-images.githubusercontent.com/41188202/147332031-b8c52532-0558-4487-842c-b0dd925b75ad.png)
 
 #### On Headers tab
