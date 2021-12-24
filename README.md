@@ -123,11 +123,11 @@
 ![image](https://user-images.githubusercontent.com/41188202/147332785-68a18d74-302e-42d5-a997-61ddbd2328d5.png)
 
 #### Response:
-![image](https://user-images.githubusercontent.com/41188202/143397046-179dab77-981e-4bb1-bd2c-da39a08da5f1.png)
+![image](https://user-images.githubusercontent.com/41188202/147333506-e276eea5-e4a8-4fae-bb53-843ae120793b.png)
 ```javascript
 {
     "error": "00",
-    "error_description": "No Error, Hello LL001 To Cancel : your doc TEST1234"
+    "error_description": "No error"
 }
 ```
 * Download for example -> [TestCallAPIWithToken.zip](https://github.com/adminsak1234/LL00X-RESTful-API-for-Seino-wms)
