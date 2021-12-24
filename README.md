@@ -124,8 +124,8 @@
 * Add key as [Content-Type] and value as "application/json"
 ![image](https://user-images.githubusercontent.com/41188202/147332451-23913d18-9e52-4a22-8372-b48055546387.png)
 #### On Params tab
-* Now click on Params, Then add key as [doc] and values as {documentNo}
-![image](https://user-images.githubusercontent.com/41188202/143395316-b7c65284-f692-49a3-bd23-8a245b06099a.png)
+* Now click on Params, Then add key as [doc] and values as {documentNo} and add key as [company code] and values as {comp_code}
+![image](https://user-images.githubusercontent.com/41188202/147332785-68a18d74-302e-42d5-a997-61ddbd2328d5.png)
 
 #### Example by Postman:
 * On Headers tab, Follow below.
