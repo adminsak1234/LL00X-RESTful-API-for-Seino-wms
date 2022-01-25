@@ -267,6 +267,8 @@ Code | Description
 11 | Fix value is wrong, please check [click](#Fix-value-is-wrong-for-example)
 12 | COMP_CODE, PRODUCTCODE, PRODUCTUNITCODE, WAREHOUSECODE Not matching
 13 | Document not found
+14 | Found multi ITEMSTATUSCODE in request
+15 | Not Found ITEMSTATUSCODE in request
 90 | Server error (please contact support)
 
 ## Invalid JSON for example
