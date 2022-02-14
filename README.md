@@ -174,8 +174,8 @@
 ```
 # LL003 To Cancel
 [back to top](#Table-of-contents)
-* Select request type as GET and add request URL as {Base URL}/api/ll003/method2?doc={documentNo} 
-![image](https://user-images.githubusercontent.com/41188202/153827597-7f04e4c4-8d2f-48d7-bf70-3586fc43dd53.png)
+* Select request type as GET and add request URL as {Base URL}/api/ll003/method2?doc={documentNo}&comp_code={comp_code}
+![image](https://user-images.githubusercontent.com/41188202/153840342-b88c415e-363a-476b-a9bb-25142eb9ab03.png)
 
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
@@ -185,11 +185,6 @@
 * Now click on Params, Then add key as [doc] and values as {documentNo}
 ![image](https://user-images.githubusercontent.com/41188202/143395316-b7c65284-f692-49a3-bd23-8a245b06099a.png)
 
-#### Example by Postman:
-* On Headers tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/143399662-0a0b9553-097e-4106-b53f-fd7b8cf81cee.png)
-* On Params tab, Follow below.
-![image](https://user-images.githubusercontent.com/41188202/143396743-1067ab91-1eb8-47c0-8a0d-073af4526b7c.png)
 * Response Json form
 ![image](https://user-images.githubusercontent.com/41188202/143399761-5cd0bd5e-46e2-44bc-aeef-6325535cb528.png)
 ```javascript
