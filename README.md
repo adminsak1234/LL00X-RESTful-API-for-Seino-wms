@@ -142,67 +142,26 @@
 ![image](https://user-images.githubusercontent.com/41188202/142392304-b864d5e8-c10b-46d2-a0fc-8136f934b219.png)
 #### On Body tab
 * Now click on Body – select raw – select Text as JSON (application/json), Then pass the Jason as below
-![image](https://user-images.githubusercontent.com/41188202/142392462-327a5b9c-b230-4f06-a66a-4caa1fa145e0.png)
+![image](https://user-images.githubusercontent.com/41188202/153837350-aeb63451-da3b-45a2-b3ee-e9fb71f2525f.png)
 ```javascript
 [{
     "TXLL_ID": "908762",
-    "DOCUMENT_NO": "312100015059",
+    "DOCUMENT_NO": "TEST-LL003_0003",
     "DOC_DATE": "20211105",
-    "SRC_NAME": "VRM",
-    "TARGET_NAME": "VRM",
-    "COMP_CODE": "1012",
-    "DOC_TYPE": "ZGEN",
-    "VENDOR": "21001921",
-    "PLANT": "1200",
+    "SRC_NAME": "SAP",
+    "TARGET_NAME": "WMS",
+    "COMP_CODE": "1021",
+    "DOC_TYPE": "15",
+    "VENDOR": "11000500",
+    "PLANT": "DP02",
     "PO_ITEM": "00010",
-    "MATERIAL": "600000397",
+    "MATERIAL": "250000140",
     "QUANTITY": "1.00",
     "QTY_CONFIRM": "1.00",
-    "PO_UNIT": "AU",
+    "PO_UNIT": "PAC",
     "NET_PRICE": "1000000.0000",
     "PRICE_UNIT": "1000000.0000",
-    "CREATEBY": "INF",
-    "UPDATEBY": "INF"
-},
-{
-    "TXLL_ID": "908764",
-    "DOCUMENT_NO": "312100015059",
-    "DOC_DATE": "20211105",
-    "SRC_NAME": "VRM",
-    "TARGET_NAME": "VRM",
-    "COMP_CODE": "1012",
-    "DOC_TYPE": "ZGEN",
-    "VENDOR": "21001921",
-    "PLANT": "1205",
-    "PO_ITEM": "00030",
-    "MATERIAL": "600000397",
-    "QUANTITY": "1.00",
-    "QTY_CONFIRM": "1.00",
-    "PO_UNIT": "AU",
-    "NET_PRICE": "1000000.0000",
-    "PRICE_UNIT": "1000000.0000",
-    "CREATEBY": "INF",
-    "UPDATEBY": "INF"
-},
-{
-    "TXLL_ID": "908765",
-    "DOCUMENT_NO": "312100015059",
-    "DOC_DATE": "20211105",
-    "SRC_NAME": "VRM",
-    "TARGET_NAME": "VRM",
-    "COMP_CODE": "1012",
-    "DOC_TYPE": "ZGEN",
-    "VENDOR": "21001921",
-    "PLANT": "DM02",
-    "PO_ITEM": "00040",
-    "MATERIAL": "600000397",
-    "QUANTITY": "1.00",
-    "QTY_CONFIRM": "1.00",
-    "PO_UNIT": "AU",
-    "NET_PRICE": "1000000.0000",
-    "PRICE_UNIT": "1000000.0000",
-    "CREATEBY": "INF",
-    "UPDATEBY": "INF"
+    "CREATEBY": "INF"
 }]
 ```
 #### Example by Postman:
