@@ -180,10 +180,10 @@
 #### On Headers tab
 * Add key as [Authorization] and value as "Bearer {Enter Token Here}" 
 * Add key as [Content-Type] and value as "application/json"
-![image](https://user-images.githubusercontent.com/41188202/143399903-f0d5479c-73ea-4b56-a521-91939b57233f.png)
+![image](https://user-images.githubusercontent.com/41188202/153840632-215bbf91-1ca4-428f-b445-b4af3b8388d3.png)
 #### On Params tab
-* Now click on Params, Then add key as [doc] and values as {documentNo}
-![image](https://user-images.githubusercontent.com/41188202/143395316-b7c65284-f692-49a3-bd23-8a245b06099a.png)
+* Now click on Params, Then add key as [doc] and values as {documentNo} and add key as [company code] and values as {comp_code}
+![image](https://user-images.githubusercontent.com/41188202/153840842-85e37686-831c-4977-8734-15cdf89a00c5.png)
 
 * Response Json form
 ![image](https://user-images.githubusercontent.com/41188202/143399761-5cd0bd5e-46e2-44bc-aeef-6325535cb528.png)
@@ -218,6 +218,10 @@ Code | Description
 13 | Document not found
 14 | Found multi ITEMSTATUSCODE in request
 15 | Not Found ITEMSTATUSCODE in request
+16 | VENDOR not found, please check
+17 | MATERIAL not found, please check
+18 | PO_UNIT not found, please check
+19 | PLANT not found, please check
 90 | Server error (please contact support)
 
 ## Invalid JSON for example
